@@ -1,0 +1,16 @@
+PART 2 RESPONSIVE TESTING EVIDENCE
+
+The assignment requires screenshot evidence for desktop, tablet and mobile views.
+
+Use the following browser developer-tool sizes when taking the screenshots:
+1. Desktop: 1440 x 900
+2. Tablet: 768 x 900
+3. Mobile: 390 x 844
+
+Recommended evidence:
+- Open index.html and capture the full page at each size.
+- Repeat the check on programs.html and donate.html if your lecturer asks for page-specific evidence.
+- Make sure the browser developer tools/device toolbar is visible in at least one screenshot so the selected viewport is clear.
+- Check that there is no horizontal scrolling and that the navigation, cards, images and forms fit the screen.
+
+The CSS in this Part 2 folder already contains the responsive breakpoints and relative sizing needed for these tests.
